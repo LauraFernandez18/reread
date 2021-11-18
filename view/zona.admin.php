@@ -69,6 +69,7 @@
                 $query=mysqli_query($conn,$consulta);
                 $libros=mysqli_fetch_all($query,MYSQLI_ASSOC);
 
+            //ej1
             foreach ($libros as $libro) {
                 echo "<tr>";
                 echo "<td>{$libro['Title']}</td>";
