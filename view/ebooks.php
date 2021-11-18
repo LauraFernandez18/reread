@@ -13,6 +13,8 @@
 <body>
 
     <div class="logo">
+        <!--ej6-->
+        <a href="../view/login.html">Iniciar sesión</a>
         <h1>Re-Read</h1>
     </div>
 
@@ -24,9 +26,9 @@
     <div class="row">
         <div class="column middle">
             <div class="topnav">
-                <a href="../index.html">Re-Read</a>
-                <a href="libros.html">Libros</a>
-                <a href="ebooks.html" class="active">eBooks</a>
+                <a href="../index.php">Re-Read</a>
+                <a href="libros.php">Libros</a>
+                <a href="ebooks.php" class="active">eBooks</a>
             </div>
             <div class="textpage">
                 <h3>Toda la actualidad en eBook</h3>
