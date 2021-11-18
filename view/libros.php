@@ -13,8 +13,6 @@
 <body>
 
     <div class="logo">
-        <!--ej6-->
-        <a href="../view/login.html">Iniciar sesión</a>
         <h1>Re-Read</h1>
     </div>
 
